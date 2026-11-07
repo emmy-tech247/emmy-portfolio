@@ -11,7 +11,7 @@ const projects = [
   {
     title: "Real Estate Platform",
     Icon: Home,
-    img: "/projects/real-estate.png",
+    img: "/projects/real-estate.PNG",
     live: "https://real-estate-using-nextjs.vercel.app/",
     code: "https://github.com/emmy-tech247/real-estate-using-next.js",
     desc: "A modern real estate website with advanced search, filtering and booking features.",
