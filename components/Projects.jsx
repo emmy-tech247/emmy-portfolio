@@ -46,12 +46,12 @@ const projects = [
     tags: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
   },
   {
-    title: "Modern Restaurant Website",
+    title: "Portfolio Website",
     Icon: LayoutDashboard,
-    img: "/projects/restaurant.png",
-    live: "",
-    code: "#",
-    desc: "A website designed to showcase the menu, highlight signature dishes, provide essential dining information, and create an engaging digital experience that encourages customers to visit and make reservations.",
+    img: "/projects/emmy-portfolio.PNG",
+    live: "https://emmy-portfolio-cyan.vercel.app/",
+    code: "https://github.com/emmy-tech247/emmy-portfolio#deploy-to-azure-static-web-apps",
+    desc: "A modern, responsive portfolio showcasing professional skills, innovative projects, technical expertise, services, and a distinctive personal brand.",
     tags: ["React", "Next.js", "TypeScript"],
   },
   {
