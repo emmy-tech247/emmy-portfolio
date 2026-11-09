@@ -36,16 +36,18 @@ const projects = [
     tags: ["PHP", "HTML", "CSS", "MYSQL"],
   },
 
-   {
-    title: "Loan Management Platform Using Next.js",
-    Icon: Home,
-    img: "/projects/home-page.png",
-    live: "#",
-    code: "https://github.com/emmy-tech247/real-estate-using-next.js",
-    desc: "A business-focused loan management platform designed to manage members, loan applications, repayments, staff workflows, financial records, and administrative operations.",
-    tags: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
-  },
+ 
   {
+    title: "Crestwood International School ",
+    Icon: Home,
+    img: "/projects/school.jpg",
+    live: "https://school-delta-jade.vercel.app/ ",
+    code: "https://github.com/emmy-tech247/school",
+    desc: "A modern school platform featuring student enrollment, online admissions, academic management, attendance tracking, fee payments, results processing, parent portals, and administrative dashboards.",
+    tags: ["Next.js", "React", "TypeScript", "Tailwind CSS", "PostgreSQL"],
+  },
+
+   {
     title: "Portfolio Website",
     Icon: LayoutDashboard,
     img: "/projects/emmy-portfolio.PNG",
@@ -54,16 +56,18 @@ const projects = [
     desc: "A modern, responsive portfolio showcasing professional skills, innovative projects, technical expertise, services, and a distinctive personal brand.",
     tags: ["React", "Next.js", "TypeScript"],
   },
-  {
-    title: "Landing Page ",
-    Icon: Home,
-    img: "/projects/landing-page.png",
-    live: " ",
-    code: "https://github.com/emmy-tech247/typescript-landing-page",
-    desc: "A landing page designed to capture attention, communicate key value propositions clearly, showcase products or services, and guide visitors toward meaningful actions and conversions.",
-    tags: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
-  },
 
+
+   {
+    title: "Loan Management Platform Using Next.js",
+    Icon: Home,
+    img: "/projects/home-page.png",
+    live: "#",
+    code: "https://github.com/emmy-tech247/real-estate-using-next.js",
+    desc: "A business-focused loan management platform designed to manage members, loan applications, repayments, staff workflows, financial records, and administrative operations.",
+    tags: ["Next.js", "React", "TypeScript", "Tailwind CSS","MYSQL"],
+  },
+  
   
 ];
 

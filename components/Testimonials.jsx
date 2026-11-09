@@ -6,19 +6,19 @@ const testimonials = [
     quote: "Emmanuel is an exceptional developer. He delivered our project ahead of schedule with outstanding quality. I highly recommend him for any web development role.",
     name: "Sarah Mitchell",
     role: "Product Manager, TechNova",
-    photo: "/sarah.jpg",
+    photo: "/projects/sarah.jpg",
   },
   {
     quote: "Clean code, clear communication and great attention to detail. A pleasure to work with.",
     name: "Client Name",
-    role: "Founder, Your Company",
-    photo: "/client2.jpg",
+    role: "Founder, SiteTech",
+    photo: "/projects/Daniel.jpg",
   },
   {
     quote: "He turned our rough idea into a polished, fast product. We will work together again.",
     name: "Client Name",
-    role: "CEO, Your Company",
-    photo: "/client3.jpg",
+    role: "CEO, TechnoSite",
+    photo: "/projects/Steven.jpg",
   },
 ];
 
