@@ -38,7 +38,7 @@ export default function Experience() {
           <p className="mt-4 max-w-xs text-sm text-slate-300">
             I have contributed to impactful projects, worked with great teams, and continuously improved my skills.
           </p>
-          <a href="/Projects/Emmanuel-Alao-CV.pdf" className="btn-outline mt-6 inline-flex items-center gap-2 text-xs font-semibold">
+          <a href="/projects/Emmanuel-Alao-CV.pdf" className="btn-outline mt-6 inline-flex items-center gap-2 text-xs font-semibold">
             View My CV <ArrowRight size={14} />
           </a>
         </div>
